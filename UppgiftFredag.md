@@ -16,6 +16,14 @@
     localhost:3000/notes/id             Put         Edite a note            Change a selected note
 
 
+    |Varible name|Comment|
+    |---|---|
+    |Notes|Good name|
+    |NotesObject|Unclear what it means|
+    |NotesData|Good name|
+    |newNOtesId|Good name|
+    |dataPath|Can be a bit unclear|
+
 
     Variable name       Comment
     
