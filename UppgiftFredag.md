@@ -1,11 +1,11 @@
 1. 
-|ROUTE   |VERB   |DESCRIPTION   |RETURNE   |
-|---|---|---|---|
-|/note|get|Get all notes|All notes|
-|/note/id|get|Get a note|Selected note|
-|/note/id|Delete|Reomove a note|Remove selected note|
-|/note/|post|Creat a note|Create a new note|
-|/note/id|put|Edite a note|Change a selected note|
+    |ROUTE|VERB|DESCRIPTION|RETURNE|
+    |---|---|---|---|
+    |/note|get|Get all notes|All notes|
+    |/note/id|get|Get a note|Selected note|
+    |/note/id|Delete|Reomove a note|Remove selected note|
+    |/note/|post|Creat a note|Create a new note|
+    |/note/id|put|Edite a note|Change a selected note|
     
     
     ROUTE                               VERB        Description             Returne
