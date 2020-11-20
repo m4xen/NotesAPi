@@ -12,9 +12,9 @@
     |Data object|definition|
     |---|---|
     |res|Data that web browser sends back|
-    |req|request that user sent to web browser|
-    |err|error message that is sent whit file|
-    |data|data that gets send spesific file|
+    |req|Request that user sent to web browser|
+    |err|Error message that is sent whit file|
+    |data|Data that gets send spesific file|
 
     -Titta igenom er namngivning-
     |Varible name|Comment|
